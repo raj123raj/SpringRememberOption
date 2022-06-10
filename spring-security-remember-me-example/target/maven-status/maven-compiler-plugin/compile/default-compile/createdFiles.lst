@@ -1,0 +1,6 @@
+com\gfg\spring\config\SecurityWebApplicationInitializer.class
+com\gfg\spring\controller\SampleContoller.class
+com\gfg\spring\config\WebConfiguration.class
+com\gfg\spring\config\MvcWebApplicationInitializer.class
+com\gfg\spring\config\ApplicationConfiguration.class
+com\gfg\spring\config\WebSecurityConfiguration.class
